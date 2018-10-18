@@ -1,15 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a study of Ruby on rails learned at Progate(https://prog-8.com/).
 
-Things you may want to cover:
+Details:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
+* Ruby version: ruby 2.5.1
 
 * Database creation
 
